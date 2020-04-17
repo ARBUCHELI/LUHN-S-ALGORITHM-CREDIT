@@ -62,4 +62,9 @@ Test out your program with a whole bunch of inputs, both valid and invalid. (We 
 
 If your program behaves incorrectly on some inputs (or doesn’t compile at all), time to debug!
 
-Author: Andrés R. Bucheli.
+<strong>INSTRUCTIONS</strong>
+
+1. Download and unzip the repository folder.
+2. Open, compile and run the credit.c file in a C compiler to see the project.
+
+# Author: Andrés R. Bucheli.
